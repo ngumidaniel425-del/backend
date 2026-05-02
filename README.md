@@ -49,7 +49,7 @@ A web-based portal built to manage and verify Portfolio of Evidence for technica
 Check out my creative portfolio and technical troubleshooting content:
 * **YouTube:** [dan74tech Media](https://www.youtube.com/@dan74techMedia)
 * **Video Editing:** Official music videos for KWAWI IZOOH ([Bisha](https://youtu.be/zgy9obeCt2c?si=hgVaC2cFQMibjH9e), [Nafurahia](https://youtu.be/Nj63qNbJXMA?si=c_HaLOdST6-Gg-LZ))
-* **Graphic Design:** Professional logos, technical posters, and corporate branding.
+* **[Graphic Design](https://whatsapp.com/channel/0029VbCBaqjLo4hpbjPPNm2r):** Professional logos, technical posters, and corporate branding.
 
 ---
 
