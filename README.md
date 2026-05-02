@@ -30,7 +30,7 @@ Beyond the code, I operate **Danntyz Media** (also known as **DAN74TECH MEDIA**)
 
 ## 📂 Featured Projects
 
-### 📱 [SMART SCAN REGISTRY](https://github.com/Daniel Ngumi CV 2026.pdf)
+### 📱 [SMART SCAN REGISTRY](https://github.com/ngumidaniel425@gmail-del/MYself/ Daniel Ngumi CV 2026.pdf)
 A full-stack Android application designed to modernize classroom attendance.
 * **Core Tech:** Java, XML, SQLite, ZXing QR Integration.
 * **Key Features:** Teacher authentication, dynamic lesson selection, real-time analytics, and PDF/Image report generation.
