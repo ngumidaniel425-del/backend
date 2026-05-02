@@ -39,7 +39,7 @@ A native Android application transforming student attendance through QR technolo
 * **Features:** Secure teacher authentication, dynamic lesson/class selection, and automated PDF/Image report generation.
 * **Status:** Live testing at Kiirua TTI; preparing for Play Store release.
 
-### 🌐 CDACC E-Portfolio & POE System
+### 🌐 School E-Portfolio & POE System
 A web-based portal built to manage and verify Portfolio of Evidence for technical learners.
 * **Features:** Multi-level access for students and instructors, real-time grading, and evidence tracking.
 
@@ -48,7 +48,7 @@ A web-based portal built to manage and verify Portfolio of Evidence for technica
 ## 🎬 Media & Creative Work
 Check out my creative portfolio and technical troubleshooting content:
 * **YouTube:** [dan74tech Media](https://www.youtube.com/@dan74techMedia)
-* **Video Editing:** Official music videos for KWAWI IZOOH (*Nafurahia*, *Bisha*).
+* **Video Editing:** Official music videos for KWAWI IZOOH (*[Bisha]*(https://youtu.be/zgy9obeCt2c?si=hgVaC2cFQMibjH9e), *Nafurahia*).
 * **Graphic Design:** Professional logos, technical posters, and corporate branding.
 
 ---
@@ -56,7 +56,7 @@ Check out my creative portfolio and technical troubleshooting content:
 ## 📫 Connect with Me
 * **WhatsApp:** [+254 790 435 584](https://wa.me/254790435584)
 * **Email:** [ngumidaniel425@gmail.com](mailto:ngumidaniel425@gmail.com)
-* **LinkedIn:** [Daniel Githinji](https://www.linkedin.com/in/YOUR_LINK_HERE)
+* **LinkedIn:** [Daniel Githinji](https://www.linkedin.com/in/dantyzmediatech@gmail.com)
 
 ---
 *"Building the future, one scan at a time."*
