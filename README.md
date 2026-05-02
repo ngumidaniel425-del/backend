@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 [About Me](https://whatsapp.com/channel/0029VbCBaqjLo4hpbjPPNm2r)
 I am a specialized ICT Technician (Level 6 CDACC) who thrives at the intersection of technical logic and creative design. My expertise ranges from deep-level hardware maintenance and network security to building full-stack mobile applications. 
 
 Under my brand **Danntyz Media** (or **dan74tech Media**), I coordinate digital communications, design professional branding, and edit high-quality video content for musical and corporate projects.
