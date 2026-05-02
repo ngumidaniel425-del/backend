@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Githinji (Dantyz) 👋
 
 ### ICT Technician | Android Developer | Creative Media Strategist
-**Location:** Naromoru, Kenya 🇰🇪  
+**Location:** Meru, Kenya 🇰🇪  
 **Focus:** Engineering digital systems and professional brand identities.
 
 ---
